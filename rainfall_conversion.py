@@ -10,7 +10,7 @@ def inches_of_caca_to_mm(inches):
         Arguments:
         inches - the size of the caca
     """
-    many = 25.4
+    many = 125.4	# So much more!
     mm = inches * many
     print("Please stop using these weird units")
     return mm
