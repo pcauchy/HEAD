@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 
 """ Climate analysis tool """
 import sys
@@ -28,3 +30,4 @@ for line in climate_data:
 
             print(str(celsius)+", "+str(kelvin))
 
+>>>>>>> 7c9a7deeb79188bf865018b5e9a4a1c155eba4dc
