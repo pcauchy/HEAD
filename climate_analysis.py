@@ -28,4 +28,3 @@ for line in climate_data:
 
             print(str(celsius)+", "+str(kelvin))
 
-# TODO: rename caca
