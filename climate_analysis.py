@@ -1,5 +1,5 @@
 
-""" Caca """
+""" Climate analysis tool """
 import sys
 import temp_conversion
 import signal
@@ -28,4 +28,4 @@ for line in climate_data:
 
             print(str(celsius)+", "+str(kelvin))
 
-# caca
+# TODO: rename caca
